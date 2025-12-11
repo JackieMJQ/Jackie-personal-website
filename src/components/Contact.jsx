@@ -10,14 +10,14 @@ export default function Contact() {
       transition={{ duration: 1 }}
       viewport={{ once: true }}
     >
-      <h2 className="text-3xl font-semibold mb-6">Contact</h2>
+      <h2>Contact</h2>
       <p className="text-gray-700 mb-8">
         Feel free to reach out to me via email.
       </p>
 
       <a
-        href="mailto:your@email.com"
-        className="px-6 py-3 border border-black rounded-lg hover:bg-black hover:text-white transition-all"
+        href="mailto:Jackie010227@outlook.com"
+        className="btn"
       >
         Send Email
       </a>
