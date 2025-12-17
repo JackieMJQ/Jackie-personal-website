@@ -16,7 +16,7 @@ export default function Contact() {
     <section 
       id="contact" 
       className="py-24 px-6 relative overflow-hidden 
-                 bg-white dark:bg-[#0f172a]" // <-- **背景色已修改**
+                 bg-sky-50 dark:bg-[#0f172a]" // <-- **背景色已修改**
     >
       {/* Background Gradients (保持不变) */}
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] bg-sky-200/20 dark:bg-sky-900/20 rounded-full blur-[100px] -z-10 pointer-events-none" />
